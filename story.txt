@@ -1,3 +1,13 @@
 A long time ago, in a galaxy far, far away.
 
 There were a bunch of students who wanted to learn spanish.
+
+There were eight students in the classroom, and each of them had their own reasons for being there.
+
+One of the students name was Pedro.  Pedro's grandparents were from a small town in Spain, called Tijo.  Once every month, Pedro's mother would video call his Grandmother, Alba, on Microsoft Teams.  There was just one problem, though.  Alba only spoke Spanish!  Pedro wanted so badly to be able to communicate with his grandmother!  Each day he learned a new word and each week he would prepare something new to say to his dear grandma, Alba.
+
+Finally, after his first month of lessons, the day arrived.  "Pedro, don't forget that grandma will be calling us after school", Pedro's mother told him, as he was getting ready for the school bus.  "I am so excited!", he yelled back, as he ran out the door to catch the bus.
+
+Later that day Pedro hurried home from school.  He was so excited to surprise his Grandma with his Spanish!  Unfortunately, every time Pedro tried to join the video chat, he ran into the same error message "We're sorry -- we've run into an issue".  His computer finally crashed and had to be restarted.  But by then it was too late -- Alba had given up and gone to bed.  Pedro would have to try again another day.
+
+WIP
